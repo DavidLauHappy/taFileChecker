@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fileList>
+	<Ta TaCode="01" TaName="南方基金" SendPath="NANFANG\send\">
+		<sendFile FileName="OFD_#dbtid_01_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_01_#yyyymmdd_23.TXT"
+			Description="确权申请文件" />
+		<sendFile FileName="OFD_#dbtid_01_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="02" TaName="国泰基金" SendPath="\guotai\send\">
+		<sendFile FileName="OFD_#dbtid_02_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_02_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="12" TaName="国投瑞银基金" SendPath="GUOTOURUIYIN\SEND">
+		<sendFile FileName="OFD_#dbtid_12_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_12_#yyyymmdd_23.TXT"
+			Description="确权申请文件" />
+		<sendFile FileName="OFD_#dbtid_12_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="16" TaName="融通基金" SendPath="rongtong16\send">
+		<sendFile FileName="OFD_#dbtid_16_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_16_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+		<sendFile FileName="OFD_#dbtid_16_#yyyymmdd_23.TXT"
+			Description="确权申请文件" />
+	</Ta>
+	<Ta TaCode="17" TaName="招商基金" SendPath="zhaoshang\send\">
+		<sendFile FileName="OFD_#dbtid_17_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_17_#yyyymmdd_31.TXT"
+			Description="电子合同申请文件" />
+		<sendFile FileName="OFD_#dbtid_17_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="20" TaName="长城基金" SendPath="changcheng\send\">
+		<sendFile FileName="OFD_#dbtid_20_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_20_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="21" TaName="金鹰基金" SendPath="JINGYING\send\">
+		<sendFile FileName="OFD_#dbtid_21_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_21_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="22" TaName="泰达宏利" SendPath="taida\send\">
+		<sendFile FileName="OFD_#dbtid_22_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_22_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="24" TaName="华宝兴业" SendPath="huabao\send\">
+		<sendFile FileName="OFD_#dbtid_24_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_24_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="25" TaName="国联安基金" SendPath="guolianan\send\">
+		<sendFile FileName="OFD_#dbtid_25_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_25_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="27" TaName="广发基金" SendPath="guangfa\send\">
+		<sendFile FileName="OFD_#dbtid_27_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_27_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="29" TaName="泰信基金" SendPath="taixin\send\">
+		<sendFile FileName="OFD_#dbtid_29_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_29_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="30" TaName="长信基金" SendPath="changxin\send\">
+		<sendFile FileName="OFD_#dbtid_30_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_30_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="32" TaName="诺安基金" SendPath="nuoan\send\">
+		<sendFile FileName="OFD_#dbtid_32_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_32_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="33" TaName="摩根华鑫" SendPath="jutian\send\">
+		<sendFile FileName="OFD_#dbtid_33_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_33_#yyyymmdd_13.TXT"
+			Description="业务申请汇总文件" />
+		<sendFile FileName="OFD_#dbtid_33_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+		<sendFile FileName="OFD_#dbtid_33_#yyyymmdd_31.TXT"
+			Description="电子合同申请文件" />
+	</Ta>
+	<Ta TaCode="37" TaName="上投摩根基金" SendPath="shangtou\send\">
+		<sendFile FileName="OFD_#dbtid_37_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_37_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="40" TaName="东方基金" SendPath="dongfang\send\">
+		<sendFile FileName="OFD_#dbtid_40_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_40_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="46" TaName="友邦华泰" SendPath="ybht\send\">
+		<sendFile FileName="OFD_#dbtid_46_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_46_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="58" TaName="东吴基金" SendPath="\dongwu\send">
+		<sendFile FileName="OFD_#dbtid_58_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_58_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="GXSUBTA" TaName="国信分TA" SendPath="">
+		<sendFile FileName="OFD_#dbtid_93_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_93_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="93" TaName="国信证券" SendPath="guoxinta\send\">
+		<sendFile FileName="OFD_#dbtid_93_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_93_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="99" TaName="中登上海" SendPath="BEIJING\send\">
+		<sendFile FileName="OFD_#dbtid_99_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_99_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="13" TaName="宝盈基金" SendPath="BAOYING\send\">
+		<sendFile FileName="OFD_#dbtid_13_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_13_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="05" TaName="博时基金" SendPath="boshi\send\">
+		<sendFile FileName="OFD_#dbtid_05_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_05_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+		<sendFile FileName="OFD_#dbtid_05_#yyyymmdd_23.TXT"
+			Description="确权申请文件" />
+	</Ta>
+	<Ta TaCode="08" TaName="长盛基金" SendPath="CHANGSHENG\send\">
+		<sendFile FileName="OFD_#dbtid_08_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_08_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="09" TaName="大成基金" SendPath="DACHENG\send">
+		<sendFile FileName="OFD_#dbtid_09_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_09_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="10" TaName="富国基金" SendPath="FUGUO\send\">
+		<sendFile FileName="OFD_#dbtid_10_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_10_#yyyymmdd_23.TXT"
+			Description="确权申请文件" />
+		<sendFile FileName="OFD_#dbtid_10_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="04" TaName="华安基金" SendPath="huaan\send\">
+		<sendFile FileName="OFD_#dbtid_04_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_04_#yyyymmdd_23.TXT"
+			Description="确权申请文件" />
+		<sendFile FileName="OFD_#dbtid_04_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="54" TaName="汇丰晋信" SendPath="huifeng\send\">
+		<sendFile FileName="OFD_#dbtid_54_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_54_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="03" TaName="华夏基金" SendPath="huaxia\send\">
+		<sendFile FileName="OFD_#dbtid_03_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_03_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="07" TaName="嘉实基金" SendPath="jiashi\send\">
+		<sendFile FileName="OFD_#dbtid_07_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_07_#yyyymmdd_23.TXT"
+			Description="确权申请文件" />
+		<sendFile FileName="OFD_#dbtid_07_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="53" TaName="建信基金" SendPath="jianxin\send\">
+		<sendFile FileName="OFD_#dbtid_53_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_53_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="06" TaName="鹏华基金" SendPath="PENGHUA\send\">
+		<sendFile FileName="OFD_#dbtid_06_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_06_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="98" TaName="深圳登记" SendPath="BEIJING\send\">
+		<sendFile FileName="OFD_#dbtid_98_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_98_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="55" TaName="信诚基金" SendPath="xincheng\send\">
+		<sendFile FileName="OFD_#dbtid_55_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_55_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="61" TaName="信达澳银基金" SendPath="xinda\send\">
+		<sendFile FileName="OFD_#dbtid_61_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_61_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="11" TaName="易方达基金" SendPath="yifangda\send\">
+		<sendFile FileName="OFD_#dbtid_11_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_11_#yyyymmdd_23.TXT"
+			Description="确权申请文件" />
+		<sendFile FileName="OFD_#dbtid_11_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="18" TaName="银华基金" SendPath="yinhua\send\">
+		<sendFile FileName="OFD_#dbtid_18_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_18_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="59" TaName="中邮基金" SendPath="zhongyou\send\">
+		<sendFile FileName="OFD_#dbtid_59_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_59_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="63" TaName="华商基金" SendPath="huashang\send\">
+		<sendFile FileName="OFD_#dbtid_63_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_63_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="41" TaName="华富基金" SendPath="huafu\send\">
+		<sendFile FileName="OFD_#dbtid_41_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_41_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="56" TaName="益民基金" SendPath="yimin\send\">
+		<sendFile FileName="OFD_#dbtid_56_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_56_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="39" TaName="中海基金" SendPath="zhonghai\send\">
+		<sendFile FileName="OFD_#dbtid_39_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_39_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="48" TaName="工银瑞信" SendPath="gyrx\send\">
+		<sendFile FileName="OFD_#dbtid_48_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_48_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="69" TaName="民生加银" SendPath="msjy\send\">
+		<sendFile FileName="OFD_#dbtid_69_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_69_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="45" TaName="国海富兰克林" SendPath="guohai\send\">
+		<sendFile FileName="OFD_#dbtid_45_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_45_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="15" TaName="银河基金" SendPath="yinhe\send\">
+		<sendFile FileName="OFD_#dbtid_15_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_15_#yyyymmdd_23.TXT"
+			Description="确权申请文件" />
+		<sendFile FileName="OFD_#dbtid_15_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="36" TaName="光大保德" SendPath="guangda\send\">
+		<sendFile FileName="OFD_#dbtid_36_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_36_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="47" TaName="汇添富基金" SendPath="huitianfu\send\">
+		<sendFile FileName="OFD_#dbtid_47_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_47_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="31" TaName="申万菱信" SendPath="shenwanbali\send\">
+		<sendFile FileName="OFD_#dbtid_31_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_31_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="26" TaName="景顺长城" SendPath="jingshun\send\">
+		<sendFile FileName="OFD_#dbtid_26_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_26_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="34" TaName="兴业全球基金" SendPath="xingyeqq\send\">
+		<sendFile FileName="OFD_#dbtid_34_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_34_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="42" TaName="天弘基金" SendPath="tianhong\send\">
+		<sendFile FileName="OFD_#dbtid_42_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_42_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="66" TaName="农银汇理" SendPath="nongyinhuili\send\">
+		<sendFile FileName="OFD_#dbtid_66_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_66_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="67" TaName="西部利得" SendPath="niuyinmeilong\send\">
+		<sendFile FileName="OFD_#dbtid_67_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_67_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="70" TaName="平安大华" SendPath="pingandahua\send\">
+		<sendFile FileName="OFD_#dbtid_70_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_70_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="71" TaName="富安达基金" SendPath="fuanda\send\">
+		<sendFile FileName="OFD_#dbtid_71_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_71_#yyyymmdd_13.TXT"
+			Description="业务申请汇总文件" />
+		<sendFile FileName="OFD_#dbtid_71_#yyyymmdd_23.TXT"
+			Description="确权申请文件" />
+		<sendFile FileName="OFD_#dbtid_71_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="72" TaName="财通基金" SendPath="caitong\send\">
+		<sendFile FileName="OFD_#dbtid_72_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_72_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="68" TaName="浙商基金" SendPath="zheshang\send\">
+		<sendFile FileName="OFD_#dbtid_68_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_68_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="73" TaName="方正富邦基金" SendPath="fangzheng\send\">
+		<sendFile FileName="OFD_#dbtid_73_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_73_#yyyymmdd_13.TXT"
+			Description="业务申请汇总文件" />
+		<sendFile FileName="OFD_#dbtid_73_#yyyymmdd_23.TXT"
+			Description="确权申请文件" />
+		<sendFile FileName="OFD_#dbtid_73_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="23" TaName="海富通基金" SendPath="haifutong\send\">
+		<sendFile FileName="OFD_#dbtid_23_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_23_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="74" TaName="长安基金" SendPath="changan\send\">
+		<sendFile FileName="OFD_#dbtid_74_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_74_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="49" TaName="交银斯罗德" SendPath="jiaoyin\send\">
+		<sendFile FileName="OFD_#dbtid_49_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_49_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="60" TaName="中欧基金" SendPath="zhongou\send\">
+		<sendFile FileName="OFD_#dbtid_60_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_60_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="0A" TaName="华润元大" SendPath="huarunyuanda\send\">
+		<sendFile FileName="OFD_#dbtid_0A_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_0A_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="35" TaName="天治基金" SendPath="tianzhi\send\">
+		<sendFile FileName="OFD_#dbtid_35_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_35_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="78" TaName="红塔红土" SendPath="hongta\send\">
+		<sendFile FileName="OFD_#dbtid_78_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_78_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="76" TaName="国金通用" SendPath="guojintongyong\send\">
+		<sendFile FileName="OFD_#dbtid_76_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_76_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="44" TaName="前海开源" SendPath="qianhaikaiyuan\send\">
+		<sendFile FileName="OFD_#dbtid_44_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_44_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="75" TaName="安信基金" SendPath="anxin\send\">
+		<sendFile FileName="OFD_#dbtid_75_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_75_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="1N" TaName="中金基金" SendPath="zhongjin\send\">
+		<sendFile FileName="OFD_#dbtid_1N_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_1N_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="S2" TaName="国信托管" SendPath="guosentuoguan\send\">
+		<sendFile FileName="OFD_#dbtid_S2_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_S2_#yyyymmdd_31.TXT"
+			Description="电子合同申请文件" />
+		<sendFile FileName="OFD_#dbtid_S2_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="0F" TaName="中融基金" SendPath="zhongrongjijin\send\">
+		<sendFile FileName="OFD_#dbtid_0F_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_0F_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="1A" TaName="国泰元鑫" SendPath="guotaiyuanxin\send\">
+		<sendFile FileName="OFD_#dbtid_1A_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_1A_#yyyymmdd_31.TXT"
+			Description="电子合同申请文件" />
+		<sendFile FileName="OFD_#dbtid_1A_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="1F" TaName="中铁宝盈" SendPath="zhongtiebaoying\send\">
+		<sendFile FileName="OFD_#dbtid_1F_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_1F_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="0Z" TaName="国寿安保" SendPath="guoshouanbao\send\">
+		<sendFile FileName="OFD_#dbtid_0Z_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_0Z_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="43" TaName="新华基金" SendPath="xinhua\send\">
+		<sendFile FileName="OFD_#dbtid_43_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_43_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="3H" TaName="红土创新" SendPath="hongtuchuangxin\send\">
+		<sendFile FileName="OFD_#dbtid_3H_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_3H_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="3M" TaName="创金合信" SendPath="chuangjinhexin\send\">
+		<sendFile FileName="OFD_#dbtid_3M_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_3M_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="3Q" TaName="九泰基金" SendPath="jiutaijijin\send\">
+		<sendFile FileName="OFD_#dbtid_3Q_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_3Q_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="1L" TaName="园信永丰" SendPath="yuanxinyongfeng\send\">
+		<sendFile FileName="OFD_#dbtid_1L_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_1L_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="4L" TaName="中科沃土" SendPath="zhongkewotu\send\">
+		<sendFile FileName="OFD_#dbtid_4L_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_4L_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="57" TaName="诺德基金" SendPath="nuode\send\">
+		<sendFile FileName="OFD_#dbtid_57_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_57_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+</fileList>

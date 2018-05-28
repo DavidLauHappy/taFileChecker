@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configs>
+	<!-- 
+		id:服务唯一编号
+		name:服务名称
+		workdate:服务日期(不配置默认系统日期，当天服务完成会自动跳转到下一个工作日)
+		checkTime：服务定点检测时间
+		classID：服务入口类
+		config：服务对应的清单配置文件
+	 -->
+	<Service  id="001" name="证通ta文件发送检测"   workdate="20180507" checkTime="06:50:00" classID="func.FDEPCheckAction" config="ini/fileList.xml" >
+	   <dbtid>603</dbtid><!--公司编号-->
+	   <sendBasePath>C:\Test\sztbk\</sendBasePath><!--待发送文件目录(网络相对路径)-->
+	   <checkFreq>30</checkFreq><!--重复检查的时间间隔(单位s)-->
+	   <sendTimeout>60</sendTimeout><!-- 文件发送超时时间(单位s)-->
+	   <fdepLog>C:\Test\FxTerm\</fdepLog><!--文件发送日志目录(本地绝对路径)-->
+	   <offDays>$weekend|20180101|20180215|20180216|20180219|20180220|20180221|20180405|20180406|20180430|20180501|20180618|20180924|20181001|20181002|20181003|20181004|20181005</offDays><!--非工作日历-->		
+	   <checkRules>^.*TaskInfo=1.0.+${FileName}.+$</checkRules> <!-- 文件检测规则 ^.+${FileName}.+upload success.+$ |^.*TaskInfo=1.0.+${FileName}.+$-->
+	   
+	</Service>
+	<Service  id="002" name="小站双向文件发送检测"  checkTime="06:45:00"   workdate="20180507"  classID="func.XZSXCheckAction" config="ini/CSDCFileList.xml" >
+	     <checkFreq>30</checkFreq><!--重复检查的时间间隔(单位s)-->
+	   	 <sendTimeout>60</sendTimeout><!-- 文件发送超时时间(单位s)-->
+	     <logPath>C:\Test\XZSX\</logPath><!-- 实际收发文件的日志文件目录 -->
+	     <sendBasePath>C:\Test\sztbk\</sendBasePath><!--待发送文件目录(网络相对路径)-->
+	     <checkRules>^.*${FileName}.*接收完毕.*$</checkRules><!--文件检测规则-->
+	     <offDays>$weekend|20180101|20180215|20180216|20180219|20180220|20180221|20180405|20180406|20180430|20180501|20180618|20180924|20181001|20181002|20181003|20181004|20181005</offDays><!--非工作日历-->		
+	</Service>
+</configs>

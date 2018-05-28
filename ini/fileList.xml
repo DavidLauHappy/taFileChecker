@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fileList>
+	
+	<Ta TaCode="13" TaName="宝盈基金" SendPath="BAOYING\send\">
+		<sendFile FileName="OFD_#dbtid_13_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_13_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+	<Ta TaCode="75" TaName="安信基金" SendPath="anxin\send\">
+		<sendFile FileName="OFD_#dbtid_75_#yyyymmdd_01.TXT"
+			Description="帐户申请文件" />
+		<sendFile FileName="OFD_#dbtid_75_#yyyymmdd_03.TXT"
+			Description="交易申请文件" />
+	</Ta>
+</fileList>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fileList>
+	<Ta TaCode="98" TaName="深圳登记" SendPath="BEIJING\send\">                
+		<sendFile FileName="OFD_603_98_#yyyymmdd_01.TXT"  Description="帐户申请文件" />                                             
+		<sendFile FileName="OFD_603_98_#yyyymmdd_03.TXT"  Description="交易申请文件" /> 
+		<sendFile FileName="OFD_603_98_#yyyymmdd_33.txt"  Description="索引文件" />                                               
+		<sendFile FileName="OFI_603_98_#yyyymmdd.TXT"     Description="索引文件" />           	                                                     
+	</Ta>   
+	<Ta TaCode="99" TaName="中登上海" SendPath="BEIJING\send\">                                                          
+		<sendFile FileName="OFD_603_99_#yyyymmdd_01.TXT"  Description="帐户申请文件" />                                             
+		<sendFile FileName="OFD_603_99_#yyyymmdd_03.TXT"  Description="交易申请文件" />  
+		<sendFile FileName="OFI_603_99_#yyyymmdd.TXT"     Description="索引文件" />             	                                                     
+	</Ta>                                                                         
+</fileList>
